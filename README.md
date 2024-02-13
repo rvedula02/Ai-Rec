@@ -2,3 +2,4 @@ Ai-Rec is a tool that allows users to gain insights into budgeting and investing
 
 Investment suggestions are provided in the form of stocks that trade on the NYSE as of now. 
 This app was built using Svelte and Javascript.
+
