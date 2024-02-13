@@ -1,0 +1,31 @@
+# version: '3.8'
+# services:
+#   user-funcs:
+#     build:
+#       context: ./user-funcs
+#     ports:
+#       - "3001:3001"
+
+#   financial-services:
+#     build:
+#       context: ./financial-services
+#     ports:
+#       - "3002:3002"
+
+#   ai-insights:
+#     build:
+#       context: ./ai-insights
+#     ports:
+#       - "3003:3003"
+
+#   eventbus:
+#     build:
+#       context: ./event-bus
+#     ports:
+#       - "3004:3004"
+
+#   airec-svelte:
+#     build:
+#       context: ./airec-svelte
+#     ports:
+#       - "80:5173"
